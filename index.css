@@ -1,0 +1,11 @@
+html
+{
+    height: 100%;
+}
+
+body
+{
+    height: 100%;
+    background-color: hsl(0,0%,16%);
+    margin: 0;
+}
